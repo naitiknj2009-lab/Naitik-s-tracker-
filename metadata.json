@@ -1,0 +1,6 @@
+{
+  "name": "JEE Tracker",
+  "description": "Mission 100 JEE 2027 Personal Progress Tracker for Physics, Chemistry, Mathematics, Tests and Daily Reflections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
